@@ -1,5 +1,3 @@
-- # Hi there 👋, I'm Patel Deep
-
 ![AI/ML Engineer](https://img.shields.io/badge/AI/ML%20Engineer-blue?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge)
 
@@ -25,7 +23,7 @@ Welcome to my GitHub profile! I'm an aspiring AI/ML Engineer with a strong found
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
-[![LinkedIn]https://www.linkedin.com/in/deep-patel-16393627b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+[LinkedIn]https://www.linkedin.com/in/deep-patel-16393627b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 
 ## 🌟 Featured Projects
@@ -40,6 +38,8 @@ Welcome to my GitHub profile! I'm an aspiring AI/ML Engineer with a strong found
 
 Thanks for stopping by! I'm excited to learn, grow, and collaborate with the amazing community here on GitHub. Let's connect and build something impactful together!
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
 <!---
 Dppe/Dppe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
