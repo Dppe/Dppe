@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm an aspiring AI/ML Engineer with a strong found
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
-[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/deep-patel-16393627b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) 
+[![LinkedIn]https://www.linkedin.com/in/deep-patel-16393627b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 
 ## 🌟 Featured Projects
